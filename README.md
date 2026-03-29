@@ -142,7 +142,7 @@ GROUP BY customer_id;
 ## 🙌 Author
 
 Swayamvarapu Madhuri
-Aspiring Data Analyst
+(Aspiring Data Analyst)
 
 ---
 
